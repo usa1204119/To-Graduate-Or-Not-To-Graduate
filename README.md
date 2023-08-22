@@ -1,8 +1,7 @@
-# PROJECT_4
+# To Graduate Or Not To Graduate - That Is the Question
 
 <img src="images/graduate_pic.jpg" width="1000" height="491">
 
-## To Graduate Or Not To Graduate - That Is the Question
 Team Members - Hamim Hussain, Hanwen Jia, Sultana Khan
 
 ### Executive Summary:
