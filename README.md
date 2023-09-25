@@ -1,4 +1,4 @@
-# To Graduate Or Not To Graduate - That Is the Question
+# Analysising the dropout rates
 
 <img src="images/graduate_pic.jpg" width="1000" height="491">
 
